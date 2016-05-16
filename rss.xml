@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[USMA Class of 2016]]></title>
+        <description><![CDATA[USMA Class of 2016]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 May 2016 20:23:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to the class page for the Class of 2016! </p>]]></description>
+            <link>undefinedwelcome-to-the-class-page-for-the-class-of-2016/index.html</link>
+            <guid isPermaLink="false">5f8c25d1-6a44-414b-ab0e-eb5840ff1aa8</guid>
+            <pubDate>Mon, 16 May 2016 20:23:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
