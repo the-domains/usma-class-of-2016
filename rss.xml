@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[USMA Class of 2016]]></title>
         <description><![CDATA[USMA Class of 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/usma-class-of-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 20:23:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 20:28:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/usma-class-of-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to the class page for the Class of 2016! </p>]]></description>
-            <link>undefinedwelcome-to-the-class-page-for-the-class-of-2016/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/117bc030-7039-4cf4-85a4-9c040ce779e2.jpg">]]></description>
+            <link>https://thegrid.ai/usma-class-of-2016/welcome-to-the-class-page-for-the-class-of-2016/index.html</link>
             <guid isPermaLink="false">5f8c25d1-6a44-414b-ab0e-eb5840ff1aa8</guid>
-            <pubDate>Mon, 16 May 2016 20:23:55 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 20:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
